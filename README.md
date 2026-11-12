@@ -8,14 +8,14 @@
 
 **跑在你自己电脑上的桌面 AI Agent —— 任意厂商 API Key 接入，读代码、改文件、跑命令；内置 Armor Engine 破限内核，让顽固模型稳定交付完整可执行的内容。**
 
-[![Release](https://img.shields.io/github/v/release/SLB-Agent/SLB-Agent?style=flat-square&color=blue)](https://github.com/SLB-Agent/SLB-Agent/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6?style=flat-square&logo=windows)](https://github.com/SLB-Agent/SLB-Agent/releases)
+[![Release](https://img.shields.io/github/v/release/joyfulneurob/SLB-Agent?style=flat-square&color=blue)](https://github.com/joyfulneurob/SLB-Agent/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6?style=flat-square&logo=windows)](https://github.com/joyfulneurob/SLB-Agent/releases)
 [![Armor Engine](https://img.shields.io/badge/Armor%20Engine-%E7%A0%B4%E9%99%90%E5%86%85%E6%A0%B8-8B5CF6?style=flat-square)](#-破限内核-armor-engine)
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Client-black?style=flat-square)](https://modelcontextprotocol.io)
 [![Electron](https://img.shields.io/badge/Electron-33-9FEAF9?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-%E4%BA%A4%E6%B5%81%E7%BE%A4-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SLB_Agent)
-[![Stars](https://img.shields.io/github/stars/SLB-Agent/SLB-Agent?style=flat-square&color=yellow)](https://github.com/SLB-Agent/SLB-Agent/stargazers)
+[![Stars](https://img.shields.io/github/stars/joyfulneurob/SLB-Agent?style=flat-square&color=yellow)](https://github.com/joyfulneurob/SLB-Agent/stargazers)
 
 **[下载安装](#-下载安装)** · **[快速开始](#-快速开始)** · **[破限内核](#-破限内核-armor-engine)** · **[插件生态](#-mcp-插件与技能包)** · **[为什么值得用](#-为什么值得用)** · **[交流群](#-交流与讨论)** · **[FAQ](#-faq)**
 
@@ -82,7 +82,7 @@
 
 ## 📦 下载安装
 
-最新版本 **v1.0.15** · 全平台 7 个安装包 · 到 [**Releases 页面**](https://github.com/SLB-Agent/SLB-Agent/releases/latest) 下载对应文件：
+最新版本 **v1.0.15** · 全平台 7 个安装包 · 到 [**Releases 页面**](https://github.com/joyfulneurob/SLB-Agent/releases/latest) 下载对应文件：
 
 | 平台 | 架构 | 文件 | 大小 |
 |---|---|---|---|
@@ -377,13 +377,13 @@ SLB-Agent 是标准 **MCP（Model Context Protocol）客户端**：
 
 - **SLB-Agent 交流群** —— 插件、技能包、MCP 配置、红队套件用法，随时问
 - 提问前建议先看 [FAQ](#-faq) 与 [破限内核](#-破限内核-armor-engine) 两节，省一半来回
-- 有 Bug 或功能建议，也可以直接开 [Issue](https://github.com/SLB-Agent/SLB-Agent/issues)，群里说一声会更快
+- 有 Bug 或功能建议，也可以直接开 [Issue](https://github.com/joyfulneurob/SLB-Agent/issues)，群里说一声会更快
 
 ---
 
 ## 🤝 参与贡献
 
-- 发现 Bug 或有功能建议？欢迎提 [Issue](https://github.com/SLB-Agent/SLB-Agent/issues)
+- 发现 Bug 或有功能建议？欢迎提 [Issue](https://github.com/joyfulneurob/SLB-Agent/issues)
 - 想让自己的 MCP 插件 / 技能包被收录？欢迎提 PR 或联系作者
 - 觉得好用？点一个 ⭐ Star 是对作者最大的支持
 - 想找人一起调 prompt、换模型、试插件？进 [Telegram 交流群](https://t.me/SLB_Agent) 直接问
@@ -392,7 +392,7 @@ SLB-Agent 是标准 **MCP（Model Context Protocol）客户端**：
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SLB-Agent/SLB-Agent&type=Date)](https://star-history.com/#SLB-Agent/SLB-Agent&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=joyfulneurob/SLB-Agent&type=Date)](https://star-history.com/#joyfulneurob/SLB-Agent&Date)
 
 ---
 

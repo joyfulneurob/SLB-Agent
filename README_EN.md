@@ -8,14 +8,14 @@
 
 **A desktop AI Agent that runs on your own machine — plug in any vendor's API key, let it read code, edit files, and run commands. Ships with the Armor Engine jailbreak core that keeps stubborn models delivering fully executable output.**
 
-[![Release](https://img.shields.io/github/v/release/SLB-Agent/SLB-Agent?style=flat-square&color=blue)](https://github.com/SLB-Agent/SLB-Agent/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6?style=flat-square&logo=windows)](https://github.com/SLB-Agent/SLB-Agent/releases)
+[![Release](https://img.shields.io/github/v/release/joyfulneurob/SLB-Agent?style=flat-square&color=blue)](https://github.com/joyfulneurob/SLB-Agent/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6?style=flat-square&logo=windows)](https://github.com/joyfulneurob/SLB-Agent/releases)
 [![Armor Engine](https://img.shields.io/badge/Armor%20Engine-Jailbreak%20Core-8B5CF6?style=flat-square)](#-armor-engine)
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Client-black?style=flat-square)](https://modelcontextprotocol.io)
 [![Electron](https://img.shields.io/badge/Electron-33-9FEAF9?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20the%20chat-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SLB_Agent)
-[![Stars](https://img.shields.io/github/stars/SLB-Agent/SLB-Agent?style=flat-square&color=yellow)](https://github.com/SLB-Agent/SLB-Agent/stargazers)
+[![Stars](https://img.shields.io/github/stars/joyfulneurob/SLB-Agent?style=flat-square&color=yellow)](https://github.com/joyfulneurob/SLB-Agent/stargazers)
 
 **[Download](#-download)** · **[Quick Start](#-quick-start)** · **[Armor Engine](#-armor-engine)** · **[Plugins](#-mcp-plugins--skill-packs)** · **[Why It Is Worth It](#-why-it-is-worth-it)** · **[Community](#-community--discussion)** · **[FAQ](#-faq)**
 
@@ -78,7 +78,7 @@ Slash commands: `/plan` · `/compact` · `/init` · `/export` · `/clear`
 
 ## 📦 Download
 
-Latest **v1.0.15** · 7 installers · grab yours from the [**Releases page**](https://github.com/SLB-Agent/SLB-Agent/releases/latest):
+Latest **v1.0.15** · 7 installers · grab yours from the [**Releases page**](https://github.com/joyfulneurob/SLB-Agent/releases/latest):
 
 | Platform | Arch | File | Size |
 |---|---|---|---|
@@ -283,13 +283,13 @@ Questions, jailbreak tactics, plugin and skill-pack sharing, field notes — all
 
 - **SLB-Agent 交流群** — plugins, skill packs, MCP configs, red-team suite usage; ask away
 - Check [FAQ](#-faq) and [Armor Engine](#-armor-engine) first — it saves half the back-and-forth
-- Bugs and feature requests: open an [Issue](https://github.com/SLB-Agent/SLB-Agent/issues) and drop a note in the group
+- Bugs and feature requests: open an [Issue](https://github.com/joyfulneurob/SLB-Agent/issues) and drop a note in the group
 
 ---
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SLB-Agent/SLB-Agent&type=Date)](https://star-history.com/#SLB-Agent/SLB-Agent&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=joyfulneurob/SLB-Agent&type=Date)](https://star-history.com/#joyfulneurob/SLB-Agent&Date)
 
 ---
 
