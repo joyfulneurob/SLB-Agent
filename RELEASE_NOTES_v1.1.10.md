@@ -7,9 +7,9 @@
 
 | 平台 | 架构 | 文件 | 大小 |
 |---|---|---|---|
-| **Windows** 10/11 | x64 + x86 | `SLB-Agent-1.1.10-Windows安装程序.exe` | ≈ 179.8 MB |
-| **macOS** | Apple 芯片（M1–M4） | `SLB-Agent-1.1.10-Mac-M芯片.dmg` | ≈ 104.4 MB |
-| **macOS** | Intel 芯片 | `SLB-Agent-1.1.10-Mac-Intel芯片.dmg` | ≈ 111.0 MB |
+| **Windows** 10/11 | x64 + x86 | `SLB-Agent-1.1.10-Windows.exe` | ≈ 179.8 MB |
+| **macOS** | Apple 芯片（M1–M4） | `SLB-Agent-1.1.10-Mac-M.dmg` | ≈ 104.4 MB |
+| **macOS** | Intel 芯片 | `SLB-Agent-1.1.10-Mac-Intel.dmg` | ≈ 111.0 MB |
 | **Linux** | x86_64（Ubuntu / Debian / UOS / 麒麟） | `SLB-Agent-1.1.10-Linux-x64.deb` | ≈ 91.2 MB |
 | **Linux** | x86_64（其他发行版，免安装） | `SLB-Agent-1.1.10-Linux-x64.AppImage` | ≈ 113.1 MB |
 | **Linux** | arm64（deb） | `SLB-Agent-1.1.10-Linux-arm64.deb` | ≈ 90.0 MB |
@@ -24,7 +24,7 @@
 <details>
 <summary><b>🪟 Windows</b></summary>
 
-1. 双击 `SLB-Agent-1.1.10-Windows安装程序.exe`
+1. 双击 `SLB-Agent-1.1.10-Windows.exe`
 2. 若弹出 SmartScreen「Windows 已保护你的电脑」→ 更多信息 → 仍要运行
 3. 按向导完成安装，桌面生成快捷方式
 
@@ -68,9 +68,9 @@ chmod +x SLB-Agent-1.1.10-Linux-x64.AppImage
 下载后核对校验值，确认安装包未被调包或损坏：
 
 ```
-5edbe73fb5438a0a4ca78c6304067515bbcd6f1142dc95f9909d6b5f4948f7da  SLB-Agent-1.1.10-Mac-M芯片.dmg
-af0ff763c8450a6fc9f7d3eafa69dff07bdf2dc0fd1d47424de9560db695bbd9  SLB-Agent-1.1.10-Mac-Intel芯片.dmg
-cb86ca85f4d6b4c7c03d777fa967d0ecdac3d43dbe51c081c8903b902cd7f485  SLB-Agent-1.1.10-Windows安装程序.exe
+5edbe73fb5438a0a4ca78c6304067515bbcd6f1142dc95f9909d6b5f4948f7da  SLB-Agent-1.1.10-Mac-M.dmg
+af0ff763c8450a6fc9f7d3eafa69dff07bdf2dc0fd1d47424de9560db695bbd9  SLB-Agent-1.1.10-Mac-Intel.dmg
+cb86ca85f4d6b4c7c03d777fa967d0ecdac3d43dbe51c081c8903b902cd7f485  SLB-Agent-1.1.10-Windows.exe
 1d7de17be23b9bac5ab122a9525e00b6c4cca14a5ca943f25399123cbdb2d22c  SLB-Agent-1.1.10-Linux-x64.AppImage
 a784b81e45634b6f895a9fe81dd510a4939e73acb331b31cebfd56ae402d52fb  SLB-Agent-1.1.10-Linux-x64.deb
 084e803d8cde8b4ebc3c1785a49cb3277790cbaa5cb11755a81d70a5ac16f5b4  SLB-Agent-1.1.10-Linux-arm64.AppImage
