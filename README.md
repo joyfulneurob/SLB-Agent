@@ -14,7 +14,7 @@
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Client-black?style=flat-square)](https://modelcontextprotocol.io)
 [![Electron](https://img.shields.io/badge/Electron-33-9FEAF9?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
-[![Telegram](https://img.shields.io/badge/Telegram-%E4%BA%A4%E6%B5%81%E7%BE%A4-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SLB_Agent)
+[![Telegram](https://img.shields.io/badge/Telegram-%E4%BA%A4%E6%B5%81%E7%BE%A4-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jiaoliuqunsbl)
 [![Stars](https://img.shields.io/github/stars/joyfulneurob/SLB-Agent?style=flat-square&color=yellow)](https://github.com/joyfulneurob/SLB-Agent/stargazers)
 
 **[下载安装](#-下载安装)** · **[快速开始](#-快速开始)** · **[破限内核](#-破限内核-armor-engine)** · **[插件生态](#-mcp-插件与技能包)** · **[为什么值得用](#-为什么值得用)** · **[交流群](#-交流与讨论)** · **[FAQ](#-faq)**
