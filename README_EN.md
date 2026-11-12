@@ -14,7 +14,7 @@
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Client-black?style=flat-square)](https://modelcontextprotocol.io)
 [![Electron](https://img.shields.io/badge/Electron-33-9FEAF9?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20the%20chat-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SLB_Agent)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20the%20chat-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jiaoliuqunsbl)
 [![Stars](https://img.shields.io/github/stars/joyfulneurob/SLB-Agent?style=flat-square&color=yellow)](https://github.com/joyfulneurob/SLB-Agent/stargazers)
 
 **[Download](#-download)** · **[Quick Start](#-quick-start)** · **[Armor Engine](#-armor-engine)** · **[Plugins](#-mcp-plugins--skill-packs)** · **[Why It Is Worth It](#-why-it-is-worth-it)** · **[Community](#-community--discussion)** · **[FAQ](#-faq)**
@@ -277,7 +277,7 @@ Questions, jailbreak tactics, plugin and skill-pack sharing, field notes — all
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20the%20chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SLB_Agent)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20the%20chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jiaoliuqunsbl)
 
 </div>
 

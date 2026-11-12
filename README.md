@@ -371,7 +371,7 @@ SLB-Agent 是标准 **MCP（Model Context Protocol）客户端**：
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-%E5%8A%A0%E5%85%A5%E4%BA%A4%E6%B5%81%E7%BE%A4-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SLB_Agent)
+[![Telegram](https://img.shields.io/badge/Telegram-%E5%8A%A0%E5%85%A5%E4%BA%A4%E6%B5%81%E7%BE%A4-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jiaoliuqunsbl)
 
 </div>
 
@@ -386,7 +386,7 @@ SLB-Agent 是标准 **MCP（Model Context Protocol）客户端**：
 - 发现 Bug 或有功能建议？欢迎提 [Issue](https://github.com/joyfulneurob/SLB-Agent/issues)
 - 想让自己的 MCP 插件 / 技能包被收录？欢迎提 PR 或联系作者
 - 觉得好用？点一个 ⭐ Star 是对作者最大的支持
-- 想找人一起调 prompt、换模型、试插件？进 [Telegram 交流群](https://t.me/SLB_Agent) 直接问
+- 想找人一起调 prompt、换模型、试插件？进 [Telegram 交流群](https://t.me/jiaoliuqunsbl) 直接问
 
 ---
 

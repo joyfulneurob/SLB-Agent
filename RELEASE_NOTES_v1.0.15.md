@@ -91,7 +91,7 @@ e39f7f2874c10f44759fbb4ef6516e2559e11619969b604d4b88a7c9646b00aa  SLB-Agent-1.0.
 
 技术问题、破限玩法、插件与技能包分享，欢迎进 Telegram 群：
 
-[![Telegram](https://img.shields.io/badge/Telegram-%E5%8A%A0%E5%85%A5%E4%BA%A4%E6%B5%81%E7%BE%A4-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SLB_Agent)
+[![Telegram](https://img.shields.io/badge/Telegram-%E5%8A%A0%E5%85%A5%E4%BA%A4%E6%B5%81%E7%BE%A4-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jiaoliuqunsbl)
 
 ---
 
