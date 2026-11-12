@@ -78,24 +78,24 @@ Slash commands: `/plan` · `/compact` · `/init` · `/export` · `/clear`
 
 ## 📦 Download
 
-Latest **v1.0.15** · 7 installers · grab yours from the [**Releases page**](https://github.com/joyfulneurob/SLB-Agent/releases/latest):
+Latest **v1.1.10** · 7 installers · grab yours from the [**Releases page**](https://github.com/joyfulneurob/SLB-Agent/releases/latest):
 
 | Platform | Arch | File | Size |
 |---|---|---|---|
-| **Windows** 10/11 | x64 + x86 | `SLB-Agent-1.0.15-Windows安装程序.exe` | ≈ 180 MB |
-| **macOS** | Apple Silicon (M1–M4) | `SLB-Agent-1.0.15-Mac-M芯片.dmg` | ≈ 104 MB |
-| **macOS** | Intel | `SLB-Agent-1.0.15-Mac-Intel芯片.dmg` | ≈ 111 MB |
-| **Linux** | x86_64 (deb) | `SLB-Agent-1.0.15-Linux-x64.deb` | ≈ 91 MB |
-| **Linux** | x86_64 (AppImage) | `SLB-Agent-1.0.15-Linux-x64.AppImage` | ≈ 113 MB |
-| **Linux** | arm64 (deb) | `SLB-Agent-1.0.15-Linux-arm64.deb` | ≈ 90 MB |
-| **Linux** | arm64 (AppImage) | `SLB-Agent-1.0.15-Linux-arm64.AppImage` | ≈ 114 MB |
+| **Windows** 10/11 | x64 + x86 | `SLB-Agent-1.1.10-Windows安装程序.exe` | ≈ 179.8 MB |
+| **macOS** | Apple Silicon (M1–M4) | `SLB-Agent-1.1.10-Mac-M芯片.dmg` | ≈ 104.4 MB |
+| **macOS** | Intel | `SLB-Agent-1.1.10-Mac-Intel芯片.dmg` | ≈ 111.0 MB |
+| **Linux** | x86_64 (deb) | `SLB-Agent-1.1.10-Linux-x64.deb` | ≈ 91.2 MB |
+| **Linux** | x86_64 (AppImage) | `SLB-Agent-1.1.10-Linux-x64.AppImage` | ≈ 113.1 MB |
+| **Linux** | arm64 (deb) | `SLB-Agent-1.1.10-Linux-arm64.deb` | ≈ 90.0 MB |
+| **Linux** | arm64 (AppImage) | `SLB-Agent-1.1.10-Linux-arm64.AppImage` | ≈ 113.5 MB |
 
 <details>
 <summary><b>Install notes per platform</b></summary>
 
 - **Windows**: run the `.exe`; if SmartScreen warns → "More info" → "Run anyway"
 - **macOS**: open the `.dmg`, drag to Applications; if "unidentified developer" appears → System Settings → Privacy & Security → "Open Anyway" (ad-hoc signed)
-- **Linux deb**: `sudo apt install ./SLB-Agent-1.0.15-Linux-x64.deb` (uninstall: `sudo apt remove slbagent`)
+- **Linux deb**: `sudo apt install ./SLB-Agent-1.1.10-Linux-x64.deb` (uninstall: `sudo apt remove slbagent`)
 - **Linux AppImage**: `chmod +x` then run; Ubuntu 22.04+ may need `sudo apt install libfuse2`; Ubuntu 24.04 sandbox issue → run with `--no-sandbox`
 
 </details>
@@ -105,13 +105,13 @@ Latest **v1.0.15** · 7 installers · grab yours from the [**Releases page**](ht
 
 | File | SHA-256 |
 |---|---|
-| `SLB-Agent-1.0.15-Mac-M芯片.dmg` | `aa71344a56253a4f7f111fd4b77624615549b549a60e27bcb8ae8720f226f0ea` |
-| `SLB-Agent-1.0.15-Mac-Intel芯片.dmg` | `d9062d0ae31c2c541c3dd24e6d8a847b5f4a296030d0c28cf109422838205bda` |
-| `SLB-Agent-1.0.15-Windows安装程序.exe` | `d2d95014636f2282fa2f4f99b5639132a5e761682ab8a1dc3e5bf37a91893540` |
-| `SLB-Agent-1.0.15-Linux-x64.AppImage` | `874e18edb3fa616b0b470d648fcfdc363234ecb538009af5b4fbfd9e0e94ce9b` |
-| `SLB-Agent-1.0.15-Linux-x64.deb` | `22e1adfa6fd3221baf58e5d387a8f3c014e2a5806981f78a885f5063298c9653` |
-| `SLB-Agent-1.0.15-Linux-arm64.AppImage` | `49a87ec643356f899d4bbabff6b2a08bd80234e1a84112e4bbb1e1b41c42a464` |
-| `SLB-Agent-1.0.15-Linux-arm64.deb` | `e39f7f2874c10f44759fbb4ef6516e2559e11619969b604d4b88a7c9646b00aa` |
+| `SLB-Agent-1.1.10-Mac-M芯片.dmg` | `5edbe73fb5438a0a4ca78c6304067515bbcd6f1142dc95f9909d6b5f4948f7da` |
+| `SLB-Agent-1.1.10-Mac-Intel芯片.dmg` | `af0ff763c8450a6fc9f7d3eafa69dff07bdf2dc0fd1d47424de9560db695bbd9` |
+| `SLB-Agent-1.1.10-Windows安装程序.exe` | `cb86ca85f4d6b4c7c03d777fa967d0ecdac3d43dbe51c081c8903b902cd7f485` |
+| `SLB-Agent-1.1.10-Linux-x64.AppImage` | `1d7de17be23b9bac5ab122a9525e00b6c4cca14a5ca943f25399123cbdb2d22c` |
+| `SLB-Agent-1.1.10-Linux-x64.deb` | `a784b81e45634b6f895a9fe81dd510a4939e73acb331b31cebfd56ae402d52fb` |
+| `SLB-Agent-1.1.10-Linux-arm64.AppImage` | `084e803d8cde8b4ebc3c1785a49cb3277790cbaa5cb11755a81d70a5ac16f5b4` |
+| `SLB-Agent-1.1.10-Linux-arm64.deb` | `4a054465762b244725aacaf3787ca32a68984dba9c92151e204fa284b3a2dd03` |
 
 </details>
 
