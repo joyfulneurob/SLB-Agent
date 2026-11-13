@@ -1,4 +1,4 @@
-# SLB-Agent v1.1.10
+# SLB-Agent v1.1.12
 
 > 全平台安装包发布：Windows / macOS（Apple 芯片、Intel 芯片）/ Linux（x64、arm64）
 > 功能说明、破限内核（Armor Engine）与插件体系详见仓库 [README](https://github.com/joyfulneurob/SLB-Agent#readme)
@@ -7,13 +7,13 @@
 
 | 平台 | 架构 | 文件 | 大小 |
 |---|---|---|---|
-| **Windows** 10/11 | x64 + x86 | `SLB-Agent-1.1.10-Windows.exe` | ≈ 179.8 MB |
-| **macOS** | Apple 芯片（M1–M4） | `SLB-Agent-1.1.10-Mac-M.dmg` | ≈ 104.4 MB |
-| **macOS** | Intel 芯片 | `SLB-Agent-1.1.10-Mac-Intel.dmg` | ≈ 111.0 MB |
-| **Linux** | x86_64（Ubuntu / Debian / UOS / 麒麟） | `SLB-Agent-1.1.10-Linux-x64.deb` | ≈ 91.2 MB |
-| **Linux** | x86_64（其他发行版，免安装） | `SLB-Agent-1.1.10-Linux-x64.AppImage` | ≈ 113.1 MB |
-| **Linux** | arm64（deb） | `SLB-Agent-1.1.10-Linux-arm64.deb` | ≈ 90.0 MB |
-| **Linux** | arm64（AppImage） | `SLB-Agent-1.1.10-Linux-arm64.AppImage` | ≈ 113.5 MB |
+| **Windows** 10/11 | x64 + x86 | `SLB-Agent-1.1.12-Windows.exe` | ≈ 179.9 MB |
+| **macOS** | Apple 芯片（M1–M4） | `SLB-Agent-1.1.12-Mac-M.dmg` | ≈ 104.5 MB |
+| **macOS** | Intel 芯片 | `SLB-Agent-1.1.12-Mac-Intel.dmg` | ≈ 111.0 MB |
+| **Linux** | x86_64（Ubuntu / Debian / UOS / 麒麟） | `SLB-Agent-1.1.12-Linux-x64.deb` | ≈ 91.3 MB |
+| **Linux** | x86_64（其他发行版，免安装） | `SLB-Agent-1.1.12-Linux-x64.AppImage` | ≈ 113.2 MB |
+| **Linux** | arm64（deb） | `SLB-Agent-1.1.12-Linux-arm64.deb` | ≈ 90.1 MB |
+| **Linux** | arm64（AppImage） | `SLB-Agent-1.1.12-Linux-arm64.AppImage` | ≈ 113.5 MB |
 
 > **怎么选**
 > - Mac：左上角苹果图标 →「关于本机」→「芯片」一栏，写着 Apple M1/M2/M3/M4 用 M 芯片版；写着 Intel 用 Intel 版（M 芯片机也能用 Rosetta 跑 Intel 版，只是更慢；反过来不行）
@@ -24,7 +24,7 @@
 <details>
 <summary><b>🪟 Windows</b></summary>
 
-1. 双击 `SLB-Agent-1.1.10-Windows.exe`
+1. 双击 `SLB-Agent-1.1.12-Windows.exe`
 2. 若弹出 SmartScreen「Windows 已保护你的电脑」→ 更多信息 → 仍要运行
 3. 按向导完成安装，桌面生成快捷方式
 
@@ -43,7 +43,7 @@
 <summary><b>🐧 Linux（deb）</b></summary>
 
 ```bash
-sudo apt install ./SLB-Agent-1.1.10-Linux-x64.deb
+sudo apt install ./SLB-Agent-1.1.12-Linux-x64.deb
 # 之后在开始菜单打开
 # 卸载：sudo apt remove slbagent
 ```
@@ -54,8 +54,8 @@ sudo apt install ./SLB-Agent-1.1.10-Linux-x64.deb
 <summary><b>🐧 Linux（AppImage）</b></summary>
 
 ```bash
-chmod +x SLB-Agent-1.1.10-Linux-x64.AppImage
-./SLB-Agent-1.1.10-Linux-x64.AppImage
+chmod +x SLB-Agent-1.1.12-Linux-x64.AppImage
+./SLB-Agent-1.1.12-Linux-x64.AppImage
 ```
 
 > Ubuntu 22.04+ 若提示缺 libfuse2：`sudo apt install libfuse2`
@@ -68,13 +68,13 @@ chmod +x SLB-Agent-1.1.10-Linux-x64.AppImage
 下载后核对校验值，确认安装包未被调包或损坏：
 
 ```
-5edbe73fb5438a0a4ca78c6304067515bbcd6f1142dc95f9909d6b5f4948f7da  SLB-Agent-1.1.10-Mac-M.dmg
-af0ff763c8450a6fc9f7d3eafa69dff07bdf2dc0fd1d47424de9560db695bbd9  SLB-Agent-1.1.10-Mac-Intel.dmg
-cb86ca85f4d6b4c7c03d777fa967d0ecdac3d43dbe51c081c8903b902cd7f485  SLB-Agent-1.1.10-Windows.exe
-1d7de17be23b9bac5ab122a9525e00b6c4cca14a5ca943f25399123cbdb2d22c  SLB-Agent-1.1.10-Linux-x64.AppImage
-a784b81e45634b6f895a9fe81dd510a4939e73acb331b31cebfd56ae402d52fb  SLB-Agent-1.1.10-Linux-x64.deb
-084e803d8cde8b4ebc3c1785a49cb3277790cbaa5cb11755a81d70a5ac16f5b4  SLB-Agent-1.1.10-Linux-arm64.AppImage
-4a054465762b244725aacaf3787ca32a68984dba9c92151e204fa284b3a2dd03  SLB-Agent-1.1.10-Linux-arm64.deb
+731304423c5d0f9cd34d0a53049f40f38e8ccbac7fff451a56007638640ab9ae  SLB-Agent-1.1.12-Mac-M.dmg
+3229ad582acee44ee249ed5d7904f62bcb8fd5e68024cefbc0b83b8eb256d063  SLB-Agent-1.1.12-Mac-Intel.dmg
+fe9c190f66cfa9b5071ed158816294cb4a7e2c8edfd9713d867cdcb7357f339a  SLB-Agent-1.1.12-Windows.exe
+20b04b25506a6d0a8efe60ac2ca47c4ef717db114a92713a40b0e35cf86350ba  SLB-Agent-1.1.12-Linux-x64.AppImage
+fbdd13c27098d6582261d5b7bd907a2eb87a505356479788cf4b123601a66ba2  SLB-Agent-1.1.12-Linux-x64.deb
+4ee9464158d369f4b8e3b8eeff89703e5b9282cb1a091dc177c9caa1596c5362  SLB-Agent-1.1.12-Linux-arm64.AppImage
+1d0b55dc8de7507332c15cdc844c1b6be496efae924fa8fd3c5ca065b3194917  SLB-Agent-1.1.12-Linux-arm64.deb
 ```
 
 核对方法：macOS `shasum -a 256 <文件>` · Windows PowerShell `Get-FileHash <文件>` · Linux `sha256sum <文件>`
