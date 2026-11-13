@@ -78,24 +78,26 @@ Slash commands: `/plan` · `/compact` · `/init` · `/export` · `/clear`
 
 ## 📦 Download
 
-Latest **v1.1.12** · 7 installers · grab yours from the [**Releases page**](https://github.com/joyfulneurob/SLB-Agent/releases/latest):
+Latest **v1.1.15** · 7 installers · grab yours from the [**Releases page**](https://github.com/joyfulneurob/SLB-Agent/releases/latest):
 
 | Platform | Arch | File | Size |
 |---|---|---|---|
-| **Windows** 10/11 | x64 + x86 | `SLB-Agent-1.1.12-Windows.exe` | ≈ 179.9 MB |
-| **macOS** | Apple Silicon (M1–M4) | `SLB-Agent-1.1.12-Mac-M.dmg` | ≈ 104.5 MB |
-| **macOS** | Intel | `SLB-Agent-1.1.12-Mac-Intel.dmg` | ≈ 111.0 MB |
-| **Linux** | x86_64 (deb) | `SLB-Agent-1.1.12-Linux-x64.deb` | ≈ 91.3 MB |
-| **Linux** | x86_64 (AppImage) | `SLB-Agent-1.1.12-Linux-x64.AppImage` | ≈ 113.2 MB |
-| **Linux** | arm64 (deb) | `SLB-Agent-1.1.12-Linux-arm64.deb` | ≈ 90.1 MB |
-| **Linux** | arm64 (AppImage) | `SLB-Agent-1.1.12-Linux-arm64.AppImage` | ≈ 113.5 MB |
+| **Windows** 10/11 | x64 + x86 | `SLB-Agent-1.1.15-Windows.exe` | ≈ 179.9 MB |
+| **macOS** | Apple Silicon (M1–M4) | `SLB-Agent-1.1.15-Mac-M.dmg` | ≈ 104.5 MB |
+| **macOS** | Intel | `SLB-Agent-1.1.15-Mac-Intel.dmg` | ≈ 111.1 MB |
+| **Linux** | x86_64 (deb) | `SLB-Agent-1.1.15-Linux-x64.deb` | ≈ 91.3 MB |
+| **Linux** | x86_64 (AppImage) | `SLB-Agent-1.1.15-Linux-x64.AppImage` | ≈ 113.2 MB |
+| **Linux** | arm64 (deb) | `SLB-Agent-1.1.15-Linux-arm64.deb` | ≈ 90.1 MB |
+| **Linux** | arm64 (AppImage) | `SLB-Agent-1.1.15-Linux-arm64.AppImage` | ≈ 113.6 MB |
+
+> ℹ️ The `Source code (zip/tar.gz)` links at the bottom of the Release page are auto-generated snapshots of **this documentation repository** (README, promo images, release notes). They **do not contain the client source code**; download the platform installer above instead.
 
 <details>
 <summary><b>Install notes per platform</b></summary>
 
 - **Windows**: run the `.exe`; if SmartScreen warns → "More info" → "Run anyway"
 - **macOS**: open the `.dmg`, drag to Applications; if "unidentified developer" appears → System Settings → Privacy & Security → "Open Anyway" (ad-hoc signed)
-- **Linux deb**: `sudo apt install ./SLB-Agent-1.1.12-Linux-x64.deb` (uninstall: `sudo apt remove slbagent`)
+- **Linux deb**: `sudo apt install ./SLB-Agent-1.1.15-Linux-x64.deb` (uninstall: `sudo apt remove slbagent`)
 - **Linux AppImage**: `chmod +x` then run; Ubuntu 22.04+ may need `sudo apt install libfuse2`; Ubuntu 24.04 sandbox issue → run with `--no-sandbox`
 
 </details>
@@ -105,13 +107,13 @@ Latest **v1.1.12** · 7 installers · grab yours from the [**Releases page**](ht
 
 | File | SHA-256 |
 |---|---|
-| `SLB-Agent-1.1.12-Mac-M.dmg` | `731304423c5d0f9cd34d0a53049f40f38e8ccbac7fff451a56007638640ab9ae` |
-| `SLB-Agent-1.1.12-Mac-Intel.dmg` | `3229ad582acee44ee249ed5d7904f62bcb8fd5e68024cefbc0b83b8eb256d063` |
-| `SLB-Agent-1.1.12-Windows.exe` | `fe9c190f66cfa9b5071ed158816294cb4a7e2c8edfd9713d867cdcb7357f339a` |
-| `SLB-Agent-1.1.12-Linux-x64.AppImage` | `20b04b25506a6d0a8efe60ac2ca47c4ef717db114a92713a40b0e35cf86350ba` |
-| `SLB-Agent-1.1.12-Linux-x64.deb` | `fbdd13c27098d6582261d5b7bd907a2eb87a505356479788cf4b123601a66ba2` |
-| `SLB-Agent-1.1.12-Linux-arm64.AppImage` | `4ee9464158d369f4b8e3b8eeff89703e5b9282cb1a091dc177c9caa1596c5362` |
-| `SLB-Agent-1.1.12-Linux-arm64.deb` | `1d0b55dc8de7507332c15cdc844c1b6be496efae924fa8fd3c5ca065b3194917` |
+| `SLB-Agent-1.1.15-Mac-M.dmg` | `8159c7d11b18905f24c0d0ead86b6f3041ce09a1db6376e17c58b7c66ad5365e` |
+| `SLB-Agent-1.1.15-Mac-Intel.dmg` | `0fed0193a8068213a64196a0df6e82d86d4b75259876f089d5b357ca9952113f` |
+| `SLB-Agent-1.1.15-Windows.exe` | `f9c20eec9e501c09b263eae629e7d3c3a194d52d0f9fff8565a1117877e1e9aa` |
+| `SLB-Agent-1.1.15-Linux-x64.AppImage` | `9aa0bf0e731117099bb2077db7f592c920886a76f65e62fc2ff1a33917e78acc` |
+| `SLB-Agent-1.1.15-Linux-x64.deb` | `e0f4c880432129b8f79037622454753404ec69526e3f13b6cb35378a00018fde` |
+| `SLB-Agent-1.1.15-Linux-arm64.AppImage` | `d6ea07b968ae2f793a6675233a90d3ca605e2ec825c6b9db043e752aa1648083` |
+| `SLB-Agent-1.1.15-Linux-arm64.deb` | `4f75b75b088ba6af20bac9f6ed19dfae9e7cf4702e947d01a5109850e494e451` |
 
 </details>
 
