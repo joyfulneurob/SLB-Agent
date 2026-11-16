@@ -1,0 +1,19 @@
+{
+  "name": "slb-agent-website",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Official bilingual website for SLB-Agent, built with VitePress.",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "node scripts/build.mjs",
+    "preview": "vitepress preview",
+    "check:links": "node scripts/check-links.mjs",
+    "verify": "node scripts/verify-site.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.22"
+  }
+}
