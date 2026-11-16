@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://joyfulneurob.github.io/SLB-Agent/sitemap.xml
